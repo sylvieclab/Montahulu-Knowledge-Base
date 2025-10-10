@@ -1,40 +1,44 @@
 {
   "embeds": [
     {
-      "title": "🎬 Welcome to Our Media Server!",
+      "title": "🎬 Welcome to Montahulu+!",
       "description": "Your hub for accessing Plex and other self-hosted services. This server helps us share, request, and stay updated on our media collection.",
       "color": 15105570,
       "fields": [
         {
-          "name": "📋 Welcome",
-          "value": "**📂 welcome-start-here** - You are here! Server info and channel guide\n**📢 announcements** - Important updates and server news\n**💬 general-chat** - Casual conversation and media discussions",
+          "name": "📋 Welcome Channels",
+          "value": "**📂 #welcome-start-here** - You are here! Server info and channel guide\n**📢 #announcements** - Important updates and server news\n**💬 #general-chat** - Casual conversation and media discussions",
           "inline": false
         },
         {
-          "name": "🎥 Content Requests",
-          "value": "**🎨 requests** - Request movies, TV shows, and other media\n**✅ request-status** - Track the status of your requests\n**🆕 recently-added** - See what's just been added to the library",
+          "name": "🎥 Content Request Channels",
+          "value": "**🎨 #requests** - Request movies, TV shows, and other media\n**✅ #request-status** - Track the status of your requests\n**🆕 #recently-added** - See what's just been added to the library",
           "inline": false
         },
         {
-          "name": "ℹ️ Support & Info",
-          "value": "**💡 setup-tips** - Guides for setting up Plex and other services\n**📊 server-status** - Current server status and performance\n**🚨 outages-and-maintenance** - Scheduled downtime and issue reports",
+          "name": "ℹ️ Support & Info Channels",
+          "value": "**❓ #help** - Get help with any issues or questions\n**💡 #setup-tips** - Guides for setting up Plex and other services\n**📊 #server-status** - Current server status and performance\n**🚨 #outages-and-maintenance** - Scheduled downtime and issue reports",
           "inline": false
         },
         {
           "name": "🔗 Quick Links",
-          "value": "Plex will be shared with you directly - check your email for invites!",
+          "value": "• [Plex Web App](https://app.plex.tv)\n• [Create Plex Account](https://www.plex.tv)\n• [Media Clients Wiki](https://mediaclients.wiki) - Setup guides",
           "inline": false
         },
         {
           "name": "📝 Getting Started",
-          "value": "1. Check <#requests> for how to request content\n2. Visit <#setup-tips> for help setting up Plex\n3. Watch <#recently-added> to see new content\n4. Use <#general-chat> for questions or recommendations",
+          "value": "1. Check <#1422424099333869608> to learn how to request content\n2. Visit <#1422424099333869609> for help setting up Plex\n3. Watch <#1422424099333869612> to see new content as it's added\n4. Use <#1426287703225270292> for any questions or issues",
+          "inline": false
+        },
+        {
+          "name": "📚 Full Documentation",
+          "value": "For detailed guides, setup instructions, and troubleshooting, visit our wiki:\n**[Montahulu+ Knowledge Base](https://github.com/sylvieclab/Montahulu-Knowledge-Base/wiki)**",
           "inline": false
         }
       ],
       "footer": {
-        "text": "Questions? Ask in general-chat or check setup-tips!"
-      },
-      "timestamp": "2025-10-06T12:00:00.000Z"
+        "text": "Questions? Ask in #help! 💬"
+      }
     }
   ]
 }

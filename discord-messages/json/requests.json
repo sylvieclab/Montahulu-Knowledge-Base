@@ -2,44 +2,48 @@
   "embeds": [
     {
       "title": "🎬 How to Request Media",
-      "description": "Use the commands below to request movies and TV shows. Your requests will be automatically processed and added to our Plex library!",
+      "description": "Use the commands below to request movies and TV shows. Your requests will be automatically downloaded and added to our Plex library!",
       "color": 5763719,
       "fields": [
         {
           "name": "📺 Request Commands",
-          "value": "**`/request sd-hd-movie title`** - Request a movie by title\n**`/request sd-hd-tv title`** - Request a TV show by title\n\nSimply type the command and enter the movie or show name!",
+          "value": "**`/request sd-hd-movie title`** - Request a movie by title\n**`/request sd-hd-tv title`** - Request a TV show by title\n\nJust type the command and enter the movie or show name!",
           "inline": false
         },
         {
           "name": "📋 Request Process",
-          "value": "**1.** Submit your request using one of the commands above\n**2.** The request will begin downloading automatically\n**3.** You'll receive a ping in <#request-status> when it's ready\n**4.** Once Plex picks it up, you'll see it in <#recently-added>\n**5.** Start watching on Plex!",
+          "value": "**1.** Submit your request using one of the commands above\n**2.** The request will start downloading automatically\n**3.** You'll get pinged in <#1422424099333869611> when it's ready\n**4.** Once Plex picks it up, you'll see it in <#1422424099333869612>\n**5.** Start watching on Plex!",
           "inline": false
         },
         {
           "name": "⏱️ How Long Does It Take?",
-          "value": "Download times vary based on file size and server load. Most content is available within a few hours. Check <#request-status> for updates on your specific request.",
+          "value": "Download times vary based on file size and server load. Most content is available within a few hours. Check <#1422424099333869611> for updates on your specific request.",
           "inline": false
         },
         {
           "name": "💡 Tips",
-          "value": "• Be specific with titles to get accurate results\n• For TV shows, you'll be prompted to select which season(s) you want\n• Already requested something? Check <#request-status> first\n• Can't find what you're looking for? Ask in <#general-chat>",
+          "value": "• Be specific with titles - include the year if there are multiple movies with the same name\n• For TV shows, you'll be prompted to select which season(s) you want\n• Already requested? Check <#1422424099333869611> first to avoid duplicates\n• Can't find it? Ask in <#1426287703225270292> for help",
           "inline": false
         },
         {
           "name": "⚠️ Please Be Respectful",
-          "value": "Storage is expensive! Please be mindful of what you request. Only request content you actually plan to watch, and consider if it's already available before requesting multiple seasons.",
+          "value": "Storage is expensive! Please be mindful of what you request. Only request content you actually plan to watch, and check if it's already available before requesting multiple seasons.",
+          "inline": false
+        },
+        {
+          "name": "📚 More Info",
+          "value": "For more tips and detailed guidance, visit our wiki:\n**[Montahulu+ Knowledge Base](https://github.com/sylvieclab/Montahulu-Knowledge-Base/wiki/requests)**",
           "inline": false
         },
         {
           "name": "❓ Need Help?",
-          "value": "If you have issues with requests or need assistance, ask in <#general-chat> or check <#setup-tips> for common solutions.",
+          "value": "If you're having trouble with requests, ask in <#1426287703225270292>",
           "inline": false
         }
       ],
       "footer": {
         "text": "Happy watching! 🍿"
-      },
-      "timestamp": "2025-10-06T12:00:00.000Z"
+      }
     }
   ]
 }

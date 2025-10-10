@@ -12,7 +12,7 @@
         },
         {
           "name": "🔗 Getting Started",
-          "value": "**1.** Create a free Plex account at [plex.tv](https://www.plex.tv)\n**2.** Wait for your invitation email from Montahulu+\n**3.** Log in to [plex.tv](https://www.plex.tv) and click **Open Plex**\n**4.** Go to **Settings** → **Manage Library Access**\n**5.** Find the invitation and click the **✓** checkmark to accept\n**6.** Download the Plex app for your device(s) and sign in"
+          "value": "**1.** Create a free Plex account at [plex.tv](https://www.plex.tv)\n**2.** Send me your Plex email address so I can invite you\n**3.** Wait for your invitation email from Montahulu+\n**4.** Log in to [plex.tv](https://www.plex.tv) and click **Open Plex**\n**5.** Go to **Settings** → **Manage Library Access**\n**6.** Find the invitation and click the **✓** checkmark to accept\n**7.** Download the Plex app for your device(s) and sign in"
         },
         {
           "name": "📱 Supported Devices",
@@ -25,6 +25,10 @@
         {
           "name": "🎯 Requesting Content",
           "value": "Don't see something you want to watch? Head over to the <#1422424099333869608> channel and let us know! We'll do our best to add it to the library."
+        },
+        {
+          "name": "📚 Full Setup Guide",
+          "value": "For detailed instructions on pinning libraries, privacy settings, and more, visit our wiki:\n**[Montahulu+ Knowledge Base](https://github.com/sylvieclab/Montahulu-Knowledge-Base/wiki)**"
         },
         {
           "name": "❓ Need Help?",
@@ -42,7 +46,7 @@
       "fields": [
         {
           "name": "Why Pin Libraries?",
-          "value": "By default, Plex shows all available content, including Plex's own free streaming libraries. Pinning Montahulu+ libraries ensures our shared content appears prominently on your home screen."
+          "value": "By default, Plex shows all available content, including Plex's own free streaming libraries. Pinning Montahulu+ libraries puts our shared content right at the top of your home screen."
         },
         {
           "name": "📍 Step-by-Step Guide",
@@ -57,8 +61,8 @@
           "value": "**1.** Click the **⋯** next to any pinned library\n**2.** Select **Reorder**\n**3.** Drag and drop libraries to arrange them\n**4.** Click the **✕** to finish"
         },
         {
-          "name": "📖 Detailed Guide",
-          "value": "For visual step-by-step instructions, visit:\n[mediaclients.wiki/en/Plex/Plex-Invite](https://mediaclients.wiki/en/Plex/Plex-Invite)"
+          "name": "📖 More Resources",
+          "value": "• [Montahulu+ Wiki - Full Setup Guide](https://github.com/sylvieclab/Montahulu-Knowledge-Base/wiki/new-to-plex)\n• [Media Clients Wiki - Visual Guide](https://mediaclients.wiki/en/Plex/Plex-Invite)"
         }
       ],
       "footer": {
@@ -66,7 +70,7 @@
       }
     },
     {
-      "title": "🔒 Recommended Privacy Settings",
+      "title": "🔒 Privacy Settings Worth Knowing About",
       "description": "Plex has several privacy features that are enabled by default. Here's how to protect your viewing activity and control what data you share.",
       "color": 10181046,
       "fields": [
@@ -87,16 +91,12 @@
           "value": "**What it does:** Sends your playback data to Plex\n\n**How to disable:**\n• Go to [plex.tv/about/privacy-legal/privacy-preferences](https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd)\n• Find **\"Send playback data to Plex\"**\n• **Uncheck** the box to opt out"
         },
         {
-          "name": "5️⃣ Review Your Privacy Rights",
-          "value": "**Learn more about your data:**\n• [Plex Privacy Policy](https://www.plex.tv/about/privacy-legal/#plex-your-privacy-rights)\n• Understand what data Plex collects and your rights"
-        },
-        {
-          "name": "6️⃣ U.S. Users: Opt Out of Ad Partners",
+          "name": "5️⃣ U.S. Users: Opt Out of Ad Partners",
           "value": "**What it does:** Stops sharing data with advertising partners\n\n**How to opt out:**\n• Go to [plex.tv/vendors-us](https://www.plex.tv/vendors-us/)\n• Follow the opt-out process"
         },
         {
-          "name": "ℹ️ Important Notes",
-          "value": "• These settings are **optional** but recommended for privacy\n• Settings may need to be configured in multiple locations\n• Changes may take effect immediately or within 24 hours\n\n**Full guide:** [mediaclients.wiki/en/Plex/Disable-Discover-Together](https://mediaclients.wiki/en/Plex/Disable-Discover-Together)"
+          "name": "📚 Complete Privacy Guide",
+          "value": "For all 6 privacy settings and detailed explanations, visit:\n**[Montahulu+ Wiki - Privacy Settings](https://github.com/sylvieclab/Montahulu-Knowledge-Base/wiki/new-to-plex#-privacy-settings-worth-knowing-about)**\n\nAlso see: [Media Clients Wiki](https://mediaclients.wiki/en/Plex/Disable-Discover-Together)"
         }
       ],
       "footer": {
