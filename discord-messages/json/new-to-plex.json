@@ -1,0 +1,107 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "🎬 New to Plex? Welcome to Montahulu+!",
+      "description": "Thanks for joining! Here's everything you need to know to get started with our Plex server.",
+      "color": 15844367,
+      "fields": [
+        {
+          "name": "📺 What is Plex?",
+          "value": "Plex is a streaming platform that lets you watch movies and TV shows from our server on any of your devices. Think of it like your own personal Netflix!"
+        },
+        {
+          "name": "🔗 Getting Started",
+          "value": "**1.** Create a free Plex account at [plex.tv](https://www.plex.tv)\n**2.** Wait for your invitation email from Montahulu+\n**3.** Log in to [plex.tv](https://www.plex.tv) and click **Open Plex**\n**4.** Go to **Settings** → **Manage Library Access**\n**5.** Find the invitation and click the **✓** checkmark to accept\n**6.** Download the Plex app for your device(s) and sign in"
+        },
+        {
+          "name": "📱 Supported Devices",
+          "value": "• Smart TVs (Samsung, LG, Roku, etc.)\n• Streaming devices (Apple TV, Fire TV, Chromecast)\n• Mobile (iOS & Android apps)\n• Web browser at [app.plex.tv](https://app.plex.tv)\n• Game consoles (PlayStation, Xbox)"
+        },
+        {
+          "name": "💡 Pro Tips",
+          "value": "• **Quality Settings**: Adjust streaming quality in Settings → Quality based on your internet speed\n• **Downloads**: Premium users can download content for offline viewing\n• **Watchlist**: Add shows/movies to your watchlist to track what you want to watch\n• **Continue Watching**: Plex remembers where you left off across all devices"
+        },
+        {
+          "name": "🎯 Requesting Content",
+          "value": "Don't see something you want to watch? Head over to the <#1422424099333869608> channel and let us know! We'll do our best to add it to the library."
+        },
+        {
+          "name": "❓ Need Help?",
+          "value": "Check out <#1426287703225270292> for support if you're having issues."
+        }
+      ],
+      "footer": {
+        "text": "Happy streaming! 🍿"
+      }
+    },
+    {
+      "title": "📌 How to Pin Montahulu+ Libraries",
+      "description": "Make it easier to find Montahulu+ content by pinning our libraries to your sidebar! This keeps our movies and TV shows front and center.",
+      "color": 3447003,
+      "fields": [
+        {
+          "name": "Why Pin Libraries?",
+          "value": "By default, Plex shows all available content, including Plex's own free streaming libraries. Pinning Montahulu+ libraries ensures our shared content appears prominently on your home screen."
+        },
+        {
+          "name": "📍 Step-by-Step Guide",
+          "value": "**1.** Open Plex and click the **Home** icon\n**2.** Click **More** at the bottom of the left sidebar\n**3.** Find **Montahulu+** libraries (Movies, TV Shows, etc.)\n**4.** Click the **⋯** (three dots) next to each library\n**5.** Select **Pin** from the menu\n**6.** Repeat for all Montahulu+ libraries you want\n**7.** Click **Pinned** at the top to return home"
+        },
+        {
+          "name": "🗂️ Optional: Unpin Plex's Default Content",
+          "value": "For a cleaner sidebar with only Montahulu+ content:\n• Find Plex's default libraries (Movies & TV, Live TV, etc.)\n• Click the **⋯** next to each one and select **Unpin**\n\n*You can always access them from the More menu!*"
+        },
+        {
+          "name": "↕️ Reorder Your Libraries",
+          "value": "**1.** Click the **⋯** next to any pinned library\n**2.** Select **Reorder**\n**3.** Drag and drop libraries to arrange them\n**4.** Click the **✕** to finish"
+        },
+        {
+          "name": "📖 Detailed Guide",
+          "value": "For visual step-by-step instructions, visit:\n[mediaclients.wiki/en/Plex/Plex-Invite](https://mediaclients.wiki/en/Plex/Plex-Invite)"
+        }
+      ],
+      "footer": {
+        "text": "Customized sidebar = Better experience! ✨"
+      }
+    },
+    {
+      "title": "🔒 Recommended Privacy Settings",
+      "description": "Plex has several privacy features that are enabled by default. Here's how to protect your viewing activity and control what data you share.",
+      "color": 10181046,
+      "fields": [
+        {
+          "name": "1️⃣ Disable Activity Sharing (\"Discover Together\")",
+          "value": "**What it does:** Emails your friends lists of what you watched recently\n\n**How to disable:**\n• Go to [app.plex.tv](https://app.plex.tv)\n• Click your profile photo → **View Profile** → **Edit Profile**\n• Click **Manage who can see your activity**\n• Set all options to **Private** or **Friends Only**"
+        },
+        {
+          "name": "2️⃣ Disable Watch Status Sync",
+          "value": "**What it does:** Syncs your watch progress and ratings across Plex\n\n**How to disable:**\n• Go to [app.plex.tv/desktop/#!/settings/account](https://app.plex.tv/desktop/#!/settings/account)\n• Scroll to **Account Visibility & Activity Sharing** section\n• Find **Sync my watch state and ratings**\n• Click **Update this setting** and disable it"
+        },
+        {
+          "name": "3️⃣ Manage Email Preferences",
+          "value": "**What it does:** Controls what emails Plex sends you\n\n**How to manage:**\n• Go to [plex.tv/email-preferences](https://www.plex.tv/email-preferences/)\n• Uncheck any email types you don't want to receive\n• Save your preferences"
+        },
+        {
+          "name": "4️⃣ Disable Playback Data Sharing",
+          "value": "**What it does:** Sends your playback data to Plex\n\n**How to disable:**\n• Go to [plex.tv/about/privacy-legal/privacy-preferences](https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd)\n• Find **\"Send playback data to Plex\"**\n• **Uncheck** the box to opt out"
+        },
+        {
+          "name": "5️⃣ Review Your Privacy Rights",
+          "value": "**Learn more about your data:**\n• [Plex Privacy Policy](https://www.plex.tv/about/privacy-legal/#plex-your-privacy-rights)\n• Understand what data Plex collects and your rights"
+        },
+        {
+          "name": "6️⃣ U.S. Users: Opt Out of Ad Partners",
+          "value": "**What it does:** Stops sharing data with advertising partners\n\n**How to opt out:**\n• Go to [plex.tv/vendors-us](https://www.plex.tv/vendors-us/)\n• Follow the opt-out process"
+        },
+        {
+          "name": "ℹ️ Important Notes",
+          "value": "• These settings are **optional** but recommended for privacy\n• Settings may need to be configured in multiple locations\n• Changes may take effect immediately or within 24 hours\n\n**Full guide:** [mediaclients.wiki/en/Plex/Disable-Discover-Together](https://mediaclients.wiki/en/Plex/Disable-Discover-Together)"
+        }
+      ],
+      "footer": {
+        "text": "Your privacy, your choice! 🛡️"
+      }
+    }
+  ]
+}
